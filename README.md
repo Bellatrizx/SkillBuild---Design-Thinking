@@ -1,0 +1,1 @@
+SkillsBuild de Design Thinking é uma trilha de aprendizado disponível no site da IBM. Nessa trilha aprendemos o que é design thinking, seus conceitos e como aplicá-los nos nossos projetos. Além disso também tivemos alguns testes para termos certeza de que estávamos absorvendo o conteúdo da melhor forma.
